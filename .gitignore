@@ -1,0 +1,26 @@
+# Compiled Binaries
+*.o
+*.out
+*.exe
+*.so
+*.a
+
+# Build Folders
+build/
+bin/
+
+# Logs
+*.log
+logs/
+
+# Mac Os
+.DS_Store
+
+# Editor settings
+.vscode/
+.cursor/
+
+# Temporary files
+*.swp
+*.swo
+*~
